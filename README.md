@@ -35,10 +35,10 @@ This repository includes:
 
 ```
 📦 repository-root
-├── 📁 module-1-a-new-programming-paradigm
-│   ├── 📓 notebook.ipynb
-│   ├── 📄 notes.md
-│   └── 📁 images/
+├── 📁 Module1_A_New_Programming_Paradigm
+│   ├── 📓 Exercise_1_House_Prices_Question.ipynb
+│   ├── 📄 requirements.txt
+│   └── 📄 README.md
 ├── 📁 module-2-introduction-to-computer-vision
 │   ├── 📓 notebook.ipynb
 │   ├── 📄 notes.md
