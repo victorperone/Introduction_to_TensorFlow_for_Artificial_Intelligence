@@ -221,8 +221,9 @@ This is normal and expected behavior in machine learning.
 
 ## Files in This Module
 
+```
 📁 Module1_A_New_Programming_Paradigm
 ├── 📓 Exercise_1_House_Prices_Question.ipynb
 └── 📄 requirements.txt
 └── 📄 README.md
-
+```
