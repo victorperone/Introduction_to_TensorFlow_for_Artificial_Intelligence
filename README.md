@@ -39,10 +39,10 @@ This repository includes:
 │   ├── 📓 Exercise_1_House_Prices_Question.ipynb
 │   ├── 📄 requirements.txt
 │   └── 📄 README.md
-├── 📁 module-2-introduction-to-computer-vision
-│   ├── 📓 notebook.ipynb
-│   ├── 📄 notes.md
-│   └── 📁 images/
+├── 📁 Module2_Introduction_to_Computer_Vision
+│   ├── 📓 Course_1_Part_4_Lesson_2_Notebook.ipynb
+│   ├── 📄 requirements.txt
+│   └── 📄 README.md
 ├── 📁 module-3-convolutional-neural-networks
 │   ├── 📓 cnn-notebook.ipynb
 │   ├── 📄 notes.md
@@ -63,8 +63,8 @@ To run the notebooks:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/victorperone/Introduction_to_TensorFlow_for_Artificial_Intelligence.git
+cd Introduction_to_TensorFlow_for_Artificial_Intelligence
 
 # Install dependencies
 pip install -r requirements.txt
