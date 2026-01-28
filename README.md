@@ -34,7 +34,7 @@ This repository includes:
 ## 📂 Folder Structure
 
 ```
-📦 repository-root
+📦 Introduction_to_TensorFlow_for_Artificial_Intelligence
 ├── 📁 Module1_A_New_Programming_Paradigm
 │   ├── 📓 Exercise_1_House_Prices_Question.ipynb
 │   ├── 📄 requirements.txt
@@ -43,13 +43,19 @@ This repository includes:
 │   ├── 📓 Course_1_Part_4_Lesson_2_Notebook.ipynb
 │   ├── 📄 requirements.txt
 │   └── 📄 README.md
-├── 📁 module-3-convolutional-neural-networks
-│   ├── 📓 cnn-notebook.ipynb
-│   ├── 📄 notes.md
-│   └── 📁 images/
-├── 📁 module-4-using-real-world-images
-│   ├── 📓 real-world-images.ipynb
-│   ├── 📄 notes.md
+├── 📁 Module3-Convolutional_Neural_Networks
+│   ├── 📓 Course_1_Part_6_Lesson_2_Notebook.ipynb
+│   ├── 📓 Course_1_Part_6_Lesson_3_Notebook.ipynb
+│   ├── 📄 requirements.txt
+│   └── 📄 README.md
+├── 📁 Module4_Using_Real_World_Images
+│   ├── 📓 Course_1_Part_8_Lesson_2_Notebook_Horses_Humans_Convet.ipynb
+│   ├── 📓 Course_1_Part_8_Lesson_3_Notebook_Horses_Humans_with_Validation.ipynb
+│   ├── 📓 Course_1_Part_8_Lesson_4_Notebook_Horses_Humans_Compact_Images.ipynb
+│   ├── 📓 Semana_4_Exercicio.ipynb
+│   ├── 📄 Exercise4-Question.json
+│   ├── 📄 requirements.txt
+│   └── 📄 README.md
 │   └── 📁 datasets/
 ├── 📄 requirements.txt
 └── 📄 README.md
