@@ -57,7 +57,13 @@ This repository includes:
 │   ├── 📄 requirements.txt
 │   └── 📄 README.md
 │   └── 📁 datasets/
-├── 📄 requirements.txt
+├── 📁 What_I_Learned
+│   ├── 📓 Introduction_to_TensorFlow_Wrap_Up.ipynb
+│   ├── 🧠🤖 my_horse_human_model.h5
+│   ├── 🧠🤖 my_horse_human_model.keras
+│   ├── 🖼️ Horse_test_image.png
+│   ├── 🖼️ Horse_test_image.png
+│   └── 📄 README.md
 └── 📄 README.md
 ```
 
