@@ -35,20 +35,20 @@ This repository includes:
 
 ```
 📦 Introduction_to_TensorFlow_for_Artificial_Intelligence
-├── 📁 Module1_A_New_Programming_Paradigm
+├── 📁 [Module1_A_New_Programming_Paradigm](https://github.com/victorperone/Introduction_to_TensorFlow_for_Artificial_Intelligence/tree/main/Module1_A_New_Programming_Paradigm#module-1---a-new-programming-paradigm)
 │   ├── 📓 Exercise_1_House_Prices_Question.ipynb
 │   ├── 📄 requirements.txt
 │   └── 📄 README.md
-├── 📁 Module2_Introduction_to_Computer_Vision
+├── 📁 [Module2_Introduction_to_Computer_Vision](https://github.com/victorperone/Introduction_to_TensorFlow_for_Artificial_Intelligence/tree/main/Module2_Introduction_to_Computer_Vision#module-2---introduction-to-computer-vision)
 │   ├── 📓 Course_1_Part_4_Lesson_2_Notebook.ipynb
 │   ├── 📄 requirements.txt
 │   └── 📄 README.md
-├── 📁 Module3-Convolutional_Neural_Networks
+├── 📁 [Module3-Convolutional_Neural_Networks](https://github.com/victorperone/Introduction_to_TensorFlow_for_Artificial_Intelligence/tree/main/Module3-Convolutional-Neural-Networks#module-3--convolutional-neural-networks-cnns)
 │   ├── 📓 Course_1_Part_6_Lesson_2_Notebook.ipynb
 │   ├── 📓 Course_1_Part_6_Lesson_3_Notebook.ipynb
 │   ├── 📄 requirements.txt
 │   └── 📄 README.md
-├── 📁 Module4_Using_Real_World_Images
+├── 📁 [Module4_Using_Real_World_Images](https://github.com/victorperone/Introduction_to_TensorFlow_for_Artificial_Intelligence/tree/main/Module4_Using_Real_World_Images#module-4---using-real-world-images)
 │   ├── 📓 Course_1_Part_8_Lesson_2_Notebook_Horses_Humans_Convet.ipynb
 │   ├── 📓 Course_1_Part_8_Lesson_3_Notebook_Horses_Humans_with_Validation.ipynb
 │   ├── 📓 Course_1_Part_8_Lesson_4_Notebook_Horses_Humans_Compact_Images.ipynb
@@ -57,12 +57,12 @@ This repository includes:
 │   ├── 📄 requirements.txt
 │   └── 📄 README.md
 │   └── 📁 datasets/
-├── 📁 What_I_Learned
+├── 📁 [What_I_Learned](https://github.com/victorperone/Introduction_to_TensorFlow_for_Artificial_Intelligence/tree/main/What_I_Learned)
 │   ├── 📓 Introduction_to_TensorFlow_Wrap_Up.ipynb
 │   ├── 🧠🤖 my_horse_human_model.h5
 │   ├── 🧠🤖 my_horse_human_model.keras
 │   ├── 🖼️ Horse_test_image.png
-│   ├── 🖼️ Horse_test_image.png
+│   ├── 🖼️ Human_test_image.png
 │   └── 📄 README.md
 └── 📄 README.md
 ```
